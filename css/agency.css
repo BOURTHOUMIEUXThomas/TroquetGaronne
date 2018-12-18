@@ -367,7 +367,7 @@ header.masthead .intro-text .intro-heading {
   /* IE 9 */
   -webkit-transform: rotate(45deg);
   transform: rotate(45deg);
-  background-color:  rgb(255, 220, 204);
+  background-color:  rgb(252, 52, 52);
 }
 
 .portfolio-modal .close-modal .lr .rl {
@@ -378,7 +378,7 @@ header.masthead .intro-text .intro-heading {
   /* IE 9 */
   -webkit-transform: rotate(90deg);
   transform: rotate(90deg);
-  background-color:  rgb(255, 220, 204);
+  background-color:  rgb(252, 52, 52);
 }
 
 .timeline {
@@ -759,7 +759,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
     clip-path: inset(2rem);
   }
   .portfolio-item2:hover .caption {
-    background-color: rgba(29, 128, 159, 0.9);
+    background-color: rgba(252, 52, 52, 0.9);
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
   }
